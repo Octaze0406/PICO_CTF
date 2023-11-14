@@ -3,8 +3,8 @@ enable python programs to run in the terminal copy paste the command given: wget
 
 ## Run python code
 The code sytax will be given : python3 [pythoncode] -d [file to decode]  
-  ie: python3 ende.py -d flag.txt.en
-    THis reveals the flag.
+ie: python3 ende.py -d flag.txt.en  
+This reveals the flag.
 
 #### Flag
 picoCTF{4p0110_1n_7h3_h0us3_6008014f}

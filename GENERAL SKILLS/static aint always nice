@@ -1,0 +1,2 @@
+since it a bash string, just use strings command to run the bash script file and use grep to isolate the pico
+flag:picoCTF{d15a5m_t34s3r_98d35619}

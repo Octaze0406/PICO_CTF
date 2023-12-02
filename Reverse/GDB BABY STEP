@@ -1,0 +1,10 @@
+##1
+USE GDP TO find the flag:
+549698
+
+##2
+use gdb and set breakpoint ,, run it and print eax: 307019
+
+
+
+
